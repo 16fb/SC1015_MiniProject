@@ -36,7 +36,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - The classification model we generated was better than random guessing but is still not a very good model.
 
 ## What did we learn from this project?
-- Other packages such as json
+- How to clean + prepare data for data science usage
+- Packages such as json
+- The importance of understanding the flow of data science. EDA -> Analysis -> ML models.
 - Collaborating using GitHub
 
 ## References
