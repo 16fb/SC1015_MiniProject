@@ -11,8 +11,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 4. [Machine learning]
 
 ## Contributors
-- @16fb
-- @Iain-Lim
+- @16fb – Corelation Matrix and Linear Regression
+- @Iain-Lim – EDA on Categorical Variables and Decision Tree
 - @leon0242 – EDA, Data Preparation, and Cleaning
 
 ## Problem Definition
